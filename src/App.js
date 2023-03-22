@@ -16,7 +16,7 @@ function App() {
           @SARGAP
         </a>
         <br/>
-        <a className='text-mute'>
+        <a className='text-muted'>
           2020-2023
         </a>
       </header>
