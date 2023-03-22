@@ -12,13 +12,9 @@ function App() {
         <p>
            Tanin application will be available soon
          </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          @SARGAP 2020-2023
+        <a>
+          @SARGAP
+          2020-2023
         </a>
       </header>
     </div>
