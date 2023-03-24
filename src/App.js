@@ -12,13 +12,13 @@ function App() {
         <p>
            Tanin application will be available soon
          </p>
-        <a>
+        <p>
           @SARGAP
-        </a>
+        </p>
         <br/>
-        <a className='text-muted'>
+        <p className='text-muted'>
           2020-2023
-        </a>
+        </p>
       </header>
     </div>
   );
